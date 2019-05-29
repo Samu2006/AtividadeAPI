@@ -1,0 +1,11 @@
+C:\Users\N.E.R.D.S\source\repos\AulaLTP6\AulaLTP6.Infra\bin\Debug\AulaLTP6.Infra.dll
+C:\Users\N.E.R.D.S\source\repos\AulaLTP6\AulaLTP6.Infra\bin\Debug\AulaLTP6.Infra.pdb
+C:\Users\N.E.R.D.S\source\repos\AulaLTP6\AulaLTP6.Infra\bin\Debug\AulaLTP6.Domain.dll
+C:\Users\N.E.R.D.S\source\repos\AulaLTP6\AulaLTP6.Infra\bin\Debug\Dapper.dll
+C:\Users\N.E.R.D.S\source\repos\AulaLTP6\AulaLTP6.Infra\bin\Debug\AulaLTP6.Domain.pdb
+C:\Users\N.E.R.D.S\source\repos\AulaLTP6\AulaLTP6.Infra\bin\Debug\Dapper.xml
+C:\Users\N.E.R.D.S\source\repos\AulaLTP6\AulaLTP6.Infra\obj\Debug\AulaLTP6.Infra.csprojAssemblyReference.cache
+C:\Users\N.E.R.D.S\source\repos\AulaLTP6\AulaLTP6.Infra\obj\Debug\AulaLTP6.Infra.csproj.CoreCompileInputs.cache
+C:\Users\N.E.R.D.S\source\repos\AulaLTP6\AulaLTP6.Infra\obj\Debug\AulaLTP6.Infra.csproj.CopyComplete
+C:\Users\N.E.R.D.S\source\repos\AulaLTP6\AulaLTP6.Infra\obj\Debug\AulaLTP6.Infra.dll
+C:\Users\N.E.R.D.S\source\repos\AulaLTP6\AulaLTP6.Infra\obj\Debug\AulaLTP6.Infra.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Infra", "2-Infra", "{FC074C7B-B123-4685-87E0-298912EE6DC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Domain", "1-Domain", "{F3B80FE5-099D-47F2-B73B-D1B848716DB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Application", "3-Application", "{C1829F22-7FC6-4730-B927-B7772E327757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaLTP6.Domain", "AulaLTP6.Domain\AulaLTP6.Domain.csproj", "{EC8C9D67-5445-430F-BD2E-0340CEBD36B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaLTP6.Infra", "AulaLTP6.Infra\AulaLTP6.Infra.csproj", "{077DF46A-70A0-47F0-9285-366F9EEB2EAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaLTP6.API", "AulaLTP6.API\AulaLTP6.API.csproj", "{9F80943F-219F-4705-AF64-A1F1638F95B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaLTP6.WebApplication", "AulaLTP6.WebApplication\AulaLTP6.WebApplication.csproj", "{BFD331B5-1235-46D4-B829-512B607C9374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8C9D67-5445-430F-BD2E-0340CEBD36B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8C9D67-5445-430F-BD2E-0340CEBD36B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8C9D67-5445-430F-BD2E-0340CEBD36B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8C9D67-5445-430F-BD2E-0340CEBD36B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{077DF46A-70A0-47F0-9285-366F9EEB2EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077DF46A-70A0-47F0-9285-366F9EEB2EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077DF46A-70A0-47F0-9285-366F9EEB2EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077DF46A-70A0-47F0-9285-366F9EEB2EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F80943F-219F-4705-AF64-A1F1638F95B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F80943F-219F-4705-AF64-A1F1638F95B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F80943F-219F-4705-AF64-A1F1638F95B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F80943F-219F-4705-AF64-A1F1638F95B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD331B5-1235-46D4-B829-512B607C9374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD331B5-1235-46D4-B829-512B607C9374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD331B5-1235-46D4-B829-512B607C9374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD331B5-1235-46D4-B829-512B607C9374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EC8C9D67-5445-430F-BD2E-0340CEBD36B1} = {F3B80FE5-099D-47F2-B73B-D1B848716DB7}
+		{077DF46A-70A0-47F0-9285-366F9EEB2EAF} = {FC074C7B-B123-4685-87E0-298912EE6DC3}
+		{9F80943F-219F-4705-AF64-A1F1638F95B3} = {C1829F22-7FC6-4730-B927-B7772E327757}
+		{BFD331B5-1235-46D4-B829-512B607C9374} = {C1829F22-7FC6-4730-B927-B7772E327757}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5936214C-8849-4843-A12C-C6922222D1EF}
+	EndGlobalSection
+EndGlobal
